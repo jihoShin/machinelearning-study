@@ -1,0 +1,3 @@
+*.json
+.vscode
+sklearn/.ipynb_checkpoints/*
